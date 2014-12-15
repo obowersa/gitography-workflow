@@ -82,13 +82,13 @@ the named branch.
 
 <<<DIAG Passed Build>>
 
-With her build succeeding, she requests that Bob does a code review on her work
-before merging it to master. Once Bob is happy, he merges to master then follows
-the same process with his own work.
+With her build succeeding, she requests bob does a review of her work. In
+parallel, Bob has Alice review his coresponding work on his content branch
 
-<<<DIAG Merge Master>>>
 <<<DIAG Bobs Work>>>
+<<<DIAG Alices Work>>
+<<DIAG Completed work>
 
-
-
-
+---TODO---
+Master deploy/merge
+Upload diags once they are a bit more sane
